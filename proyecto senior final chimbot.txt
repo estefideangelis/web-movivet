@@ -1,0 +1,43 @@
+la app hay q poder descargarla desde el phonegap 
+(para el examen) 
+y la app tiene qfuncionar para el final 
+para antes tiene q funcionar nada mas navegable
+preguntar l de la base de datos del login
+
+video de promocion para hacer conocer la web (en mi caso es sencillo). y de la app sino 
+animacion 2d y 3d puede estaren el mismo video o dos separados
+
+qe el title y el h1 coincida ( q coincida cn el url q sea lo mas fiel posible) 
+imagen cn nombre, q los directorios nombres reales
+el nombre alt funciona cuando buscan una imagen la gent en google, se tiene q enteder de qtrata
+
+sitemap 
+mapa del istio (es una pagina web hecha en texto,los links a todo el sitio) 
+pagina de error 404. personalizada
+robots ciertas cosas q no quiero q indexen 
+
+el bnewsletter tiene q tener dos categorias minimo de filtro hombre mujer,, etc.
+
+formulario contacto q el mail sea un mail.
+mail de recibido, gracias por su consulta etc.
+
+estricto o transicional (validaon de codigo) no me asusto si me da todo mal si lo hic cn bootstrap o dreamweaver
+
+el idioma para el 21, es preferible pero no es necesario .
+CUnado cambie el idioma me vaya a la misma pagina q no se me vaya a la home 
+
+data fiscal lo tenemos q poner(cuadradito), si es mentira el proyecto pongo cualquiera invento, como el numero y la direc 
+
+
+que el ABM cargue todo el sitio, que la app se vea  este funcioaando, y lo del idioma es importante. Los OPEN soruce son para el final 
+prestashop mercadopago (de prueba) 
+tener el mapa del sitio actualizado (pienso yo , y el abm onda q le iba aponer altas y bajas) 
+
+crear varias paginas porq sino en google aparece una sola para q sea profesional 
+contacto lo puedo dejar abajo pero 
+nosotros, servico etc por paginas separadas
+cuando abre tienda q me abra una nueva pestaña no que me cambie de pag 
+
+EMAIL ENCODE-> DIRECCION DE MAIL COPIAMOS Y LA ENCRIPTAMOS NOS DA EL CODIGO ESE Y LO REEMPLAZAMOS POR LA DIREC DE MAIL EN LA BASE
+
+GOOGLE PAGESPEED _> PARA IR RAPIDO 

@@ -1,0 +1,70 @@
+que onda lo de inicio de sesion? 
+esta bien hacer archivo php por cada texto?
+dsp iniciar sesion, registrar, es en en el encabezado y cosas asi no se cambian o si ? 
+modificar fotos..:? 
+colores? 
+si pongo alta de algunas cosas como menu, en donde se incluye? si no lo puse en el index.php
+estabien si dejo tabla de imagenes? y pongo tipo de donde es? 
+
+si lo tengo asi <h1>Corte y baño </br>a domicilio</h1> , y pongo traigo de la base como hago para que quede? el br? div mas peque?
+y el signo de preg?? 
+
+Boton reservar ahora? 
+
+los links tengo q hacer tmb 
+div si o si tiene q contener el php? boton mas grand
+el contacto tmb hay que cambiar lo q dice?? se tiene qpoder cambiar el formulario ? como es?
+
+ver lo del formulario cuando apretas desaparece la linea pq es del mismo color 
+
+footer que onda? q va y q no para cambiar
+
+ver por q no funciona menu responsive
+
+cambiar siempre  h1, title, metatag etc
+margen responsive? 
+
+title es el link que aparece cuando buscas en google (la  nacion cambia siempre) . 
+meta description, 
+el ALT DE LA primera imagen es mas importane
+master tours, como robots ve 
+mapa del sitio y terminos y condiciones puede estar solo abajo 
+mapa del sitio tiene q estar todas las paginas
+
+puramente para google (preg sil ) 
+sameup ong 
+sirve para q este todo en google 
+cambiar orden botonera menu 
+
+LE MODIFICOEL TEXTO A LOS BOTONES, TMP ES OBLIGATORIO , SI QUE SE PASE A INGLES 
+
+
+select from.. order by orden_boton"; (creo en la tabla una columna que sea orden boton) 
+
+
+NEWSLETTER 
+HAYQ EU PAGAR 200 PE PARA SEGMENTAR. 
+PRIMERO CREO LAS DOS LISTAS, PERROCHICO PERRO GRANDE. 
+Y CREO 4 PAGINAS, Q DSP E PONGO EL LINK, (PREGUNTAR SI USUARIOS SON INVENTADOS USO LOS DE LA BASE) 
+EXITOSA, ERROR
+
+iframe (newsletter) 
+sesion bloquear /admin
+cambiar servicios la imagen se tiene qpoder cambiar el texto .. va preguntar cambia imagen? 
+
+AGREGAR UNA SECCION SE TIENE Q PODER PERO PONER LLIMITE 6  (Q UNA MAS PUEDA AGREGAR NADA MAS) 
+TENGO QUE TENER SUB SEECCION! 
+
+
+
+inicio sesion si no puedo hacerlo hago qse registre d nuevo para la tienda d prestashop 
+
+
+PARA EL SIGNO DE PREGUNTA AGREGO ESO QUE AGREGUE E HOME TEXTO 2
+
+Y EN INDEX CAMBIE EL MENU , CON LO DE MENU PARA NO PONER UNO X UNO 
+EL FORMAULARIO Y ESO NO HAY Q CAMBIARLO 
+
+DE ENTRADA AL CHIQUITO EL  MARGE DSP SE LO AGRANDO , ENEL MIN AL FINAL DEL CSS
+
+
